@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               const Text('👋', style: TextStyle(fontSize: 40)), // Text (emoji)
               const SizedBox(height: 10),
               const Text(
-                'Halo, Riki Rikandi!', // Text ('Halo, [Nama]!')
+                'Halo, Rama Rizki!', // Text ('Halo, [Nama]!')
                 style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 10),
@@ -39,8 +39,8 @@ class MyApp extends StatelessWidget {
                 ),
                 child: Column(
                   children: const [
-                    Text('Nama: Riki Rikandi'), // Text (Nama)
-                    Text('NIM: 233040025'), // Text (NIM)
+                    Text('Nama: Rama Rizki'), // Text (Nama)
+                    Text('NIM: 233040002'), // Text (NIM)
                     Text('Prodi: Teknik Informatika'), // Text (Prodi)
                     Text('Semester: 6'), // Text (Semester)
                   ],
